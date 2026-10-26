@@ -6,7 +6,7 @@ An interactive classroom demo for **Algorithms with Adaptive Learning Rates** in
 
 Open [`index.html`](index.html) in Chrome, Edge, or Firefox. No Python, installation, account, or internet connection is needed. For a local server, run `python -m http.server 8000` and visit `http://localhost:8000`.
 
-## Classroom walkthrough (about 3 minutes)
+## Demo walkthrough
 
 1. Select **Narrow valley** and keep the defaults. Ask the audience which colored path they expect to be smoothest.
 2. Press **Run race**. Point to the contour trajectories and the loss curves below. Each dot is a pair of model parameters; darker central regions indicate lower loss.
